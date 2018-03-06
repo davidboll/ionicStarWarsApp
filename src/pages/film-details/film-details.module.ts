@@ -13,4 +13,6 @@ import { FilmDetailsPage } from './film-details';
     FilmDetailsPage
   ]
 })
-export class FilmDetailsPageModule {}
+export class FilmDetailsPageModule {
+  
+}
